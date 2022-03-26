@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen_2_Carlos_Rivas", "Examen_2_Carlos_Rivas.csproj", "{8A20E588-24D6-4D6B-A734-47A84ADCC018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datosexamen", "..\Datosexamen\Datosexamen.csproj", "{83468B7A-E199-4B94-90D8-8374BBE7BBCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A20E588-24D6-4D6B-A734-47A84ADCC018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A20E588-24D6-4D6B-A734-47A84ADCC018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A20E588-24D6-4D6B-A734-47A84ADCC018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A20E588-24D6-4D6B-A734-47A84ADCC018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83468B7A-E199-4B94-90D8-8374BBE7BBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83468B7A-E199-4B94-90D8-8374BBE7BBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83468B7A-E199-4B94-90D8-8374BBE7BBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83468B7A-E199-4B94-90D8-8374BBE7BBCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {662952CB-5766-4A1C-8317-BF85B782E2CD}
+	EndGlobalSection
+EndGlobal
